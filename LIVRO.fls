@@ -1,4 +1,4 @@
-PWD /Users/suzana/Desktop/EDITORA/LATEX/blecher_iluminada
+PWD /Users/suzana/Desktop/EDITORA/LATEX/salama_arvore
 INPUT /usr/local/texlive/2020/texmf-var/web2c/luahbtex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
@@ -277,17 +277,16 @@ INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
 INPUT ./TEXTO.tex
 INPUT ./TEXTO.tex
-INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-disp.luc
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-subh.luc
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-itsubh.luc
+INPUT ./POSFACIO.tex
+INPUT ./POSFACIO.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT ./POSFACIO.tex
-INPUT ./POSFACIO.tex
-INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-subh.luc
-INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-itsubh.luc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm

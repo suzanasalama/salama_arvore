@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  7 AUG 2024 21:51
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  1 DEC 2024 17:16
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1226,141 +1226,85 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
-) [4] (./LIVRO.toc) [5] (./TEXTO.tex [6
+) [4] (./LIVRO.toc) [5
+Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
+tn;language=dflt;+tlig;+onum;!
+Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
+tn;language=dflt;+tlig;+onum;!
+Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
+tn;language=dflt;+tlig;+onum;!
+Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
+tn;language=dflt;+tlig;+onum;!
+Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
+tn;language=dflt;+tlig;+onum;!
+Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
+tn;language=dflt;+tlig;+onum;!
+Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
+tn;language=dflt;+tlig;+onum;!
+Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
+tn;language=dflt;+tlig;+onum;!
+Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
+tn;language=dflt;+tlig;+onum;!
+] (./TEXTO.tex [6
 
 
 ]
-[7] [8]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 32.28084pt (T);
-(lettrine.sty)             reported on input line 9.
+[7] [8] [9
+
+Missing character: There is no א (U+05D0) in font Formular:mode=node;script=lat
+n;language=dflt;!
+] [10
+
+] [11
+Missing character: There is no ב (U+05D1) in font Formular:mode=node;script=lat
+n;language=dflt;!
+] [12
+
+] [13
+Missing character: There is no ג (U+05D2) in font Formular:mode=node;script=lat
+n;language=dflt;!
+] [14
+
+] [15
+Missing character: There is no ד (U+05D3) in font Formular:mode=node;script=lat
+n;language=dflt;!
+] [16
+
+] [17
+Missing character: There is no ה (U+05D4) in font Formular:mode=node;script=lat
+n;language=dflt;!
+] [18
+
+] [19
+Missing character: There is no ו (U+05D5) in font Formular:mode=node;script=lat
+n;language=dflt;!
+] [20
+
+] [21
+Missing character: There is no ז (U+05D6) in font Formular:mode=node;script=lat
+n;language=dflt;!
+]
+[22
+
+] [23
+Missing character: There is no ח (U+05D7) in font Formular:mode=node;script=lat
+n;language=dflt;!
+] [24
+
+]) (./POSFACIO.tex [25
+Missing character: There is no ט (U+05D8) in font Formular:mode=node;script=lat
+n;language=dflt;!
+] [26
+
+] [27] [28]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 17.
+(Font)              <10.95> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 17.
- [9
+(Font)              <8> on input line 41.
+ [29
 
-] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.0817pt (N);
-(lettrine.sty)             reported on input line 513.
-
-[22] [23] [24] [25] [26] [27] [28] [29]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 32.28084pt (T);
-(lettrine.sty)             reported on input line 778.
- [30] [31] [32] [33]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.0817pt (L);
-(lettrine.sty)             reported on input line 912.
- [34] [35] [36]
-Underfull \hbox (badness 1033) in paragraph at lines 1013--1016
-[]\TU/MinionPro(0)/m/n/10.95 De-fi-ni-ti-va-mente, as coi-sas se ajus-ta-vam me-
-lhor do que
- []
-
-[37] [38] [39]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.0817pt (B);
-(lettrine.sty)             reported on input line 1149.
- [40] [41] [42] [43] [44] [45] [46] [47] [48]
-Overfull \hbox (4.4392pt too wide) in paragraph at lines 1453--1454
-[]\TU/MinionPro(0)/m/n/10.95/10ls --- Mas para que incomodá-lo? --- mur-mu-rou o sr.Vanderkich
- []
-
-[49]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 32.28084pt (T);
-(lettrine.sty)             reported on input line 1524.
- [50] [51] [52] [53] [54] [55] [56] [57]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.7532pt (A);
-(lettrine.sty)             reported on input line 1802.
- [58] [59] [60] [61] [62]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 32.28084pt (T);
-(lettrine.sty)             reported on input line 1974.
- [63]
-[64] [65] [66] [67] [68] [69] [70] [71]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.0817pt (L);
-(lettrine.sty)             reported on input line 2312.
- [72] [73]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.0817pt (N);
-(lettrine.sty)             reported on input line 2392.
- [74] [75]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.7532pt (C);
-(lettrine.sty)             reported on input line 2461.
- [76] [77] [78]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.0817pt (F);
-(lettrine.sty)             reported on input line 2576.
-
-[79] [80] [81] [82] [83]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 37.70094pt (À);
-(lettrine.sty)             reported on input line 2765.
- [84] [85] [86]
-Underfull \hbox (badness 3148) in paragraph at lines 2845--2851
-[]\TU/MinionPro(0)/m/n/10.95 No vi-la-rejo de Ley-sin, logo abaixo da mi-nha cl
-í-nica,
- []
-
-[87] [88]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.7532pt (A);
-(lettrine.sty)             reported on input line 2938.
- [89] [90] [91] [92] [93] [94] [95] [96]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.0817pt (P);
-(lettrine.sty)             reported on input line 3240.
- [97] [98] [99] [100] [101]
-[102] [103] [104]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.0817pt (N);
-(lettrine.sty)             reported on input line 3554.
- [105] [106] [107] [108] [109] [110] [111]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.0817pt (N);
-(lettrine.sty)             reported on input line 3782.
- [112] [113]
-[114] [115] [116]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.7532pt (Q);
-(lettrine.sty)             reported on input line 3972.
- [117] [118] [119] [120] [121] [122] [123] [124] [125]
-Package lettrine.sty Info: Targeted height = 32.2808pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 31.0817pt (N);
-(lettrine.sty)             reported on input line 4333.
-
-[126] [127] [128] [129] [130] [131] [132]) (./POSFACIO.tex [133] [134
-
-] [135]
-[136] [137
-
-] [138] [139] [140] [141] [142] [143] [144]) (./Y-publicidade.tex
-[145] [146]
+] [30] [31] [32]
+[33] [34] [35] [36]) (./Y-publicidade.tex [37] [38]
 Underfull \hbox (badness 10000) in paragraph at lines 16--18
 
  []
@@ -1410,7 +1354,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--45
 
  []
 
-) [147] (./Z-colofon.tex [148] [149] [150] [151]
+) [39] (./Z-colofon.tex [40] [41] [42] [43]
 
 Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
 (fontspec)             Pro' with options [].
@@ -1439,7 +1383,7 @@ Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
 (fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;+smc
 p;"
 
-)) [152]
+)) [44]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1470,30 +1414,30 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 13766 strings out of 480992
+ 13746 strings out of 480992
  100000,794899 words of node,token memory allocated
- 1473 words of node memory still in use:
-   6 hlist, 1 vlist, 2 rule, 15 glue, 3 kern, 3 glyph, 50 attribute, 198 glue_sp
-ec, 26 attribute_list, 3 shape, 3 write, 4 pdf_colorstack nodes
-   avail lists: 1:1,2:743,3:100,4:135,5:2518,6:22,7:4793,8:2,9:256,10:97,11:408
- 30692 multiletter control sequences out of 65536+600000
- 185 fonts using 31319011 bytes
- 53i,12n,102p,1209b,417s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 1267 words of node memory still in use:
+   5 hlist, 1 vlist, 2 rule, 6 glue, 3 kern, 1 glyph, 15 attribute, 198 glue_spe
+c, 9 attribute_list, 3 shape, 3 write nodes
+   avail lists: 1:1,2:743,3:100,4:76,5:2063,6:21,7:3310,8:2,9:238,10:56,11:315
+ 30672 multiletter control sequences out of 65536+600000
+ 165 fonts using 25884739 bytes
+ 53i,11n,102p,1219b,418s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Minio
-nPro-Disp.otf></Users/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/Libra
-ry/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf><
-/Users/suzana/Library/Fonts/Formular-Bold.otf></Users/suzana/Library/Fonts/Formu
-lar-Italic.otf></Users/suzana/Library/Fonts/Formular regular mundo indigena.otf>
-</Users/suzana/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Fonts/M
-inionPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></usr/loca
-l/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/loc
-al/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/lo
-cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (152 pages, 924379 bytes).
+nPro-It.otf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Li
+brary/Fonts/MinionPro-Bold.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></
+Users/suzana/Library/Fonts/Formular-Italic.otf></Users/suzana/Library/Fonts/Form
+ular regular mundo indigena.otf></Users/suzana/Library/Fonts/MinionPro-ItCapt.ot
+f></Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fonts/M
+inionPro-BoldCapt.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/
+lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/
+adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
+msfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (44 pages, 443694 bytes).
 
-PDF statistics: 606 PDF objects out of 1000 (max. 8388607)
- 391 compressed objects within 4 object streams
+PDF statistics: 260 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -1,29 +1,19 @@
 \thispagestyle {empty}
-\contentsline {part}{A toca iluminada}{7}%
-\contentsline {section}{i}{9}%
-\contentsline {section}{ii}{23}%
-\contentsline {section}{iii}{30}%
-\contentsline {section}{iv}{34}%
-\contentsline {section}{v}{40}%
-\contentsline {section}{vi}{50}%
-\contentsline {section}{vii}{58}%
-\contentsline {section}{viii}{63}%
-\contentsline {section}{ix}{72}%
-\contentsline {section}{x}{74}%
-\contentsline {section}{xi}{76}%
-\contentsline {section}{xii}{79}%
-\contentsline {section}{xiii}{85}%
-\contentsline {section}{xiv}{89}%
-\contentsline {section}{xv}{97}%
-\contentsline {section}{xvi}{106}%
-\contentsline {section}{xvii}{112}%
-\contentsline {section}{xviii}{117}%
-\contentsline {section}{xix}{127}%
-\contentsline {part}{Apêndice}{135}%
-\contentsline {chapter}{Posfácio, \textit {por Luis S.\,Krausz}}{137}%
-\contentsline {section}{as doenças da sociedade}{138}%
-\contentsline {section}{o «sanatório» em thomas mann}{140}%
-\contentsline {section}{as múltiplas dimensões de cada momento}{141}%
-\contentsline {section}{«quanto tempo dura a eternidade?»}{143}%
-\contentsline {section}{sobre o autor}{144}%
+\contentsline {part}{A árvore do conhecimento do bem e do mal}{7}%
+\contentsline {chapter}{Bava א: Sonhos se tornam realidade}{9}%
+\contentsline {chapter}{Bava א: Encanto da serpente}{11}%
+\contentsline {chapter}{Bava א: A falta dos dias que passaram}{13}%
+\contentsline {chapter}{Bava א: A alegria do estrangeiro}{15}%
+\contentsline {chapter}{Bava א: A falta de sentido}{17}%
+\contentsline {chapter}{Bava א: Quando a vida funciona}{19}%
+\contentsline {chapter}{Bava א: Eva}{21}%
+\contentsline {chapter}{Bava א: O mundo em silêncio}{23}%
+\contentsline {chapter}{Bava א: Saber demais}{25}%
+\contentsline {part}{Apêndice}{27}%
+\contentsline {chapter}{Posfácio, \textit {por Luis S.\,Krausz}}{29}%
+\contentsline {section}{as doenças da sociedade}{30}%
+\contentsline {section}{o «sanatório» em thomas mann}{32}%
+\contentsline {section}{as múltiplas dimensões de cada momento}{33}%
+\contentsline {section}{«quanto tempo dura a eternidade?»}{35}%
+\contentsline {section}{sobre o autor}{36}%
 \babel@toc {brazilian}{}
