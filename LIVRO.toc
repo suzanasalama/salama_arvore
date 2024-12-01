@@ -1,0 +1,29 @@
+\thispagestyle {empty}
+\contentsline {part}{A toca iluminada}{7}%
+\contentsline {section}{i}{9}%
+\contentsline {section}{ii}{23}%
+\contentsline {section}{iii}{30}%
+\contentsline {section}{iv}{34}%
+\contentsline {section}{v}{40}%
+\contentsline {section}{vi}{50}%
+\contentsline {section}{vii}{58}%
+\contentsline {section}{viii}{63}%
+\contentsline {section}{ix}{72}%
+\contentsline {section}{x}{74}%
+\contentsline {section}{xi}{76}%
+\contentsline {section}{xii}{79}%
+\contentsline {section}{xiii}{85}%
+\contentsline {section}{xiv}{89}%
+\contentsline {section}{xv}{97}%
+\contentsline {section}{xvi}{106}%
+\contentsline {section}{xvii}{112}%
+\contentsline {section}{xviii}{117}%
+\contentsline {section}{xix}{127}%
+\contentsline {part}{Apêndice}{135}%
+\contentsline {chapter}{Posfácio, \textit {por Luis S.\,Krausz}}{137}%
+\contentsline {section}{as doenças da sociedade}{138}%
+\contentsline {section}{o «sanatório» em thomas mann}{140}%
+\contentsline {section}{as múltiplas dimensões de cada momento}{141}%
+\contentsline {section}{«quanto tempo dura a eternidade?»}{143}%
+\contentsline {section}{sobre o autor}{144}%
+\babel@toc {brazilian}{}

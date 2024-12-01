@@ -1,0 +1,74 @@
+% Tamanhos
+% \tiny
+% \scriptsize
+% \footnotesize
+% \small 
+% \normalsize
+% \large 
+% \Large 
+% \LARGE 
+% \huge
+% \Huge
+
+% Posicionamento
+% \centering 
+% \raggedright
+% \raggedleft
+% \vfill 
+% \hfill 
+% \vspace{Xcm}   % Colocar * caso esteja no começo de uma página. Ex: \vspace*{...}
+% \hspace{Xcm}
+
+% Estilo de página
+% \thispagestyle{<<nosso>>}
+% \thispagestyle{empty}
+% \thispagestyle{plain}  (só número, sem cabeço)
+% https://www.overleaf.com/learn/latex/Headers_and_footers
+
+% Compilador que permite usar fonte de sistema: xelatex, lualatex
+% Compilador que não permite usar fonte de sistema: latex, pdflatex
+
+% Definindo fontes
+% \setmainfont{Times New Roman}  % Todo o texto
+% \newfontfamily\avenir{Avenir}  % Contexto
+
+\begingroup\thispagestyle{empty}\vspace*{.05\textheight} 
+
+              \formular
+              
+              \LARGE\noindent
+              A toca iluminada
+
+              \smallskip
+                      
+              \large\noindent\textit{Diário de sanatório}
+
+              \bigskip  
+              
+              \Large\noindent\textbf{Max Blecher}
+              
+              %\vspace{3.4em}
+
+              \vfill
+              %\newfontfamily\minion{Minion Pro}
+              {\fontsize{30}{40}%\selectfont\minion
+              \small\noindent 
+              Fernando Klabin (\textit{tradução})\vspace{-0.3em}\\
+              \noindent
+              Luis S.\,Krausz (\textit{posfácio})}
+              
+              %\vspace{3.5em}
+              \bigskip
+
+              \noindent
+              {\fontsize{30}{40}%\selectfont\minion
+              \small\noindent 1ª edição}
+                      
+              \vfill\noindent\includegraphics[width=0.21\textwidth]{logo}
+              \break{} 
+              \smallskip
+              {\fontsize{30}{40}%\selectfont\minion
+              \scriptsize\noindent São Paulo\quad\the\year}
+
+\endgroup
+\pagebreak
