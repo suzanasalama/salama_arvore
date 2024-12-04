@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  1 DEC 2024 17:16
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  4 DEC 2024 00:06
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1137,16 +1137,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--13
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--28
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
@@ -1179,182 +1169,227 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )
-<logo_icr.pdf, id=23, 325.24411pt x 114.00844pt>
-File: logo_icr.pdf Graphic file (type pdf)
-<use logo_icr.pdf>
-Package luatex.def Info: logo_icr.pdf  used on input line 61.
-(luatex.def)             Requested size: 68.75pt x 24.09903pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--68
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--82
-
- []
-
-) [2<./logo_icr.pdf>] (./3-rosto.tex
+) [2] (./3-rosto.tex
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<logo.png, id=44, 494.84875pt x 494.84875pt>
+<logo.png, id=29, 494.84875pt x 494.84875pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package luatex.def Info: logo.png  used on input line 67.
+Package luatex.def Info: logo.png  used on input line 51.
 (luatex.def)             Requested size: 57.75185pt x 57.74832pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--72
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 [] 
  []
 
-) [3<./logo.png>] (./PRETAS.tex
-Inserting `luaotfload.letterspace' at position 2 in `pre_linebreak_filter'.
-Inserting `luaotfload.letterspace' at position 2 in `hpack_filter'.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 1.
-) [4] (./LIVRO.toc) [5
-Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
-tn;language=dflt;+tlig;+onum;!
-Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
-tn;language=dflt;+tlig;+onum;!
-Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
-tn;language=dflt;+tlig;+onum;!
-Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
-tn;language=dflt;+tlig;+onum;!
-Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
-tn;language=dflt;+tlig;+onum;!
-Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
-tn;language=dflt;+tlig;+onum;!
-Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
-tn;language=dflt;+tlig;+onum;!
-Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
-tn;language=dflt;+tlig;+onum;!
-Missing character: There is no א (U+05D0) in font MinionPro:mode=node;script=la
-tn;language=dflt;+tlig;+onum;!
-] (./TEXTO.tex [6
+) [3<./logo.png>] (./PRETAS.tex) [4] (./LIVRO.toc
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ArialHebrew' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+) [5] (./TEXTO.tex [6
 
 
 ]
-[7] [8] [9
+[7] [8]
+Package microtype Info: Character `A' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+ [9
 
-Missing character: There is no א (U+05D0) in font Formular:mode=node;script=lat
-n;language=dflt;!
 ] [10
 
-] [11
-Missing character: There is no ב (U+05D1) in font Formular:mode=node;script=lat
-n;language=dflt;!
-] [12
+] [11] [12
 
-] [13
-Missing character: There is no ג (U+05D2) in font Formular:mode=node;script=lat
-n;language=dflt;!
-] [14
+] [13] [14
 
-] [15
-Missing character: There is no ד (U+05D3) in font Formular:mode=node;script=lat
-n;language=dflt;!
-] [16
+] [15] [16
 
-] [17
-Missing character: There is no ה (U+05D4) in font Formular:mode=node;script=lat
-n;language=dflt;!
-] [18
+] [17] [18
 
-] [19
-Missing character: There is no ו (U+05D5) in font Formular:mode=node;script=lat
-n;language=dflt;!
-] [20
+] [19] [20
 
-] [21
-Missing character: There is no ז (U+05D6) in font Formular:mode=node;script=lat
-n;language=dflt;!
-]
+] [21]
 [22
 
-] [23
-Missing character: There is no ח (U+05D7) in font Formular:mode=node;script=lat
-n;language=dflt;!
-] [24
+] [23] [24
 
-]) (./POSFACIO.tex [25
-Missing character: There is no ט (U+05D8) in font Formular:mode=node;script=lat
-n;language=dflt;!
-] [26
-
-] [27] [28]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 41.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 41.
- [29
-
-] [30] [31] [32]
-[33] [34] [35] [36]) (./Y-publicidade.tex [37] [38]
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--45
-
- []
-
-) [39] (./Z-colofon.tex [40] [41] [42] [43]
+]) (./Z-colofon.tex [25] [26] [27] [28] [29]
 
 Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
 (fontspec)             Pro' with options [].
@@ -1383,7 +1418,11 @@ Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
 (fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;+smc
 p;"
 
-)) [44]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
+)) [30]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1408,36 +1447,31 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 
 \openout5 = LIVRO.toc
 (./LIVRO.aux (./INPUTS.aux)))
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 7 (\begingroup)
-### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 13746 strings out of 480992
- 100000,794899 words of node,token memory allocated
- 1267 words of node memory still in use:
-   5 hlist, 1 vlist, 2 rule, 6 glue, 3 kern, 1 glyph, 15 attribute, 198 glue_spe
-c, 9 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:1,2:743,3:100,4:76,5:2063,6:21,7:3310,8:2,9:238,10:56,11:315
- 30672 multiletter control sequences out of 65536+600000
- 165 fonts using 25884739 bytes
- 53i,11n,102p,1219b,418s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 13566 strings out of 480992
+ 100000,1144653 words of node,token memory allocated
+ 1177 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 12 attribute, 187 glue_spe
+c, 7 attribute_list, 3 shape, 3 write nodes
+   avail lists: 1:1,2:689,3:65,4:23,5:570,6:16,7:1275,8:2,9:213,10:20,11:92
+ 30502 multiletter control sequences out of 65536+600000
+ 114 fonts using 16843275 bytes
+ 53i,11n,102p,783b,295s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
-ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Minio
-nPro-It.otf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Li
-brary/Fonts/MinionPro-Bold.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></
-Users/suzana/Library/Fonts/Formular-Italic.otf></Users/suzana/Library/Fonts/Form
-ular regular mundo indigena.otf></Users/suzana/Library/Fonts/MinionPro-ItCapt.ot
-f></Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fonts/M
-inionPro-BoldCapt.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/
-lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/
-adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
-msfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (44 pages, 443694 bytes).
+ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></System/Library/Fonts/ArialHB.ttc
+></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts
+/MinionPro-Bold.otf></Users/suzana/Library/Fonts/Formular regular mundo indigena
+.otf></Users/suzana/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Fo
+nts/MinionPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></usr
+/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></us
+r/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.p
+fb>
+Output written on LIVRO.pdf (30 pages, 141236 bytes).
 
-PDF statistics: 260 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
+PDF statistics: 187 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

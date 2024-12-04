@@ -1,19 +1,12 @@
 \thispagestyle {empty}
 \contentsline {part}{A árvore do conhecimento do bem e do mal}{7}%
-\contentsline {chapter}{Bava א: Sonhos se tornam realidade}{9}%
-\contentsline {chapter}{Bava א: Encanto da serpente}{11}%
-\contentsline {chapter}{Bava א: A falta dos dias que passaram}{13}%
-\contentsline {chapter}{Bava א: A alegria do estrangeiro}{15}%
-\contentsline {chapter}{Bava א: A falta de sentido}{17}%
-\contentsline {chapter}{Bava א: Quando a vida funciona}{19}%
-\contentsline {chapter}{Bava א: Eva}{21}%
-\contentsline {chapter}{Bava א: O mundo em silêncio}{23}%
-\contentsline {chapter}{Bava א: Saber demais}{25}%
-\contentsline {part}{Apêndice}{27}%
-\contentsline {chapter}{Posfácio, \textit {por Luis S.\,Krausz}}{29}%
-\contentsline {section}{as doenças da sociedade}{30}%
-\contentsline {section}{o «sanatório» em thomas mann}{32}%
-\contentsline {section}{as múltiplas dimensões de cada momento}{33}%
-\contentsline {section}{«quanto tempo dura a eternidade?»}{35}%
-\contentsline {section}{sobre o autor}{36}%
+\contentsline {chapter}{\textsc {bava} {\arial א}\hskip 1em\relax Sonhos se tornam realidade}{9}%
+\contentsline {chapter}{\textsc {bava} {\arial ב}\hskip 1em\relax Encanto da serpente}{11}%
+\contentsline {chapter}{\textsc {bava} {\arial ג}\hskip 1em\relax A falta dos dias que passaram}{13}%
+\contentsline {chapter}{\textsc {bava} {\arial ד}\hskip 1em\relax A alegria do estrangeiro}{15}%
+\contentsline {chapter}{\textsc {bava} {\arial ה}\hskip 1em\relax A falta de sentido}{17}%
+\contentsline {chapter}{\textsc {bava} {\arial ו}\hskip 1em\relax Quando a vida funciona}{19}%
+\contentsline {chapter}{\textsc {bava} {\arial ז}\hskip 1em\relax Quem é Eva}{21}%
+\contentsline {chapter}{\textsc {bava} {\arial ח}\hskip 1em\relax O mundo em silêncio}{23}%
+\contentsline {chapter}{\textsc {bava} {\arial ט}\hskip 1em\relax Saber demais}{25}%
 \babel@toc {brazilian}{}
