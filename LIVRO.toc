@@ -1,12 +1,11 @@
 \thispagestyle {empty}
 \contentsline {part}{A árvore do conhecimento do bem e do mal}{7}%
-\contentsline {chapter}{\textsc {bava} {\arial א}\hskip 1em\relax Sonhos se tornam realidade}{9}%
-\contentsline {chapter}{\textsc {bava} {\arial ב}\hskip 1em\relax Encanto da serpente}{11}%
-\contentsline {chapter}{\textsc {bava} {\arial ג}\hskip 1em\relax A falta dos dias que passaram}{13}%
-\contentsline {chapter}{\textsc {bava} {\arial ד}\hskip 1em\relax A alegria do estrangeiro}{15}%
-\contentsline {chapter}{\textsc {bava} {\arial ה}\hskip 1em\relax A falta de sentido}{17}%
-\contentsline {chapter}{\textsc {bava} {\arial ו}\hskip 1em\relax Quando a vida funciona}{19}%
-\contentsline {chapter}{\textsc {bava} {\arial ז}\hskip 1em\relax Quem é Eva}{21}%
-\contentsline {chapter}{\textsc {bava} {\arial ח}\hskip 1em\relax O mundo em silêncio}{23}%
-\contentsline {chapter}{\textsc {bava} {\arial ט}\hskip 1em\relax Saber demais}{25}%
+\contentsline {chapter}{\textsc {bava} {\arial א}\hskip 1em\relax XXXXXXXXX}{9}%
+\contentsline {chapter}{\textsc {bava} {\arial ב}\hskip 1em\relax XXXXXXXXX}{11}%
+\contentsline {chapter}{\textsc {bava} {\arial ג}\hskip 1em\relax XXXXXXXXX}{13}%
+\contentsline {chapter}{\textsc {bava} {\arial ד}\hskip 1em\relax XXXXXXXXX}{15}%
+\contentsline {chapter}{\textsc {bava} {\arial ה}\hskip 1em\relax XXXXXXXXX}{17}%
+\contentsline {chapter}{\textsc {bava} {\arial ו}\hskip 1em\relax XXXXXXXXX}{19}%
+\contentsline {chapter}{\textsc {bava} {\arial ז}\hskip 1em\relax XXXXXXXXX}{21}%
+\contentsline {chapter}{\textsc {bava} {\arial ח}\hskip 1em\relax XXXXXXXXX}{23}%
 \babel@toc {brazilian}{}
