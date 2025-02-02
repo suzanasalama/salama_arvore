@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  12 JAN 2025 23:12
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  2 FEB 2025 19:37
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1371,7 +1371,7 @@ Package microtype Info: Character `textquestiondown ' is missing
 (microtype)             in font `TU/ArialHebrew(0)/m/n/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
@@ -1380,49 +1380,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 ] [10
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
 [11] [12
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
 [13] [14
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
 [15] [16
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 [17] [18
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
 [19] [20
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
 [21] [22
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
@@ -1486,29 +1486,29 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 13571 strings out of 480992
+ 13568 strings out of 480992
  100000,1144653 words of node,token memory allocated
  1177 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 12 attribute, 187 glue_spe
 c, 7 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:1,2:656,3:65,4:23,5:570,6:16,7:1446,8:2,9:213,10:20,11:104
- 30507 multiletter control sequences out of 65536+600000
- 113 fonts using 16573187 bytes
- 53i,11n,102p,822b,295s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:1,2:656,3:65,4:23,5:571,6:16,7:1277,8:2,9:218,10:20,11:92
+ 30504 multiletter control sequences out of 65536+600000
+ 115 fonts using 17138323 bytes
+ 53i,11n,102p,783b,295s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
-ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></System/Library/Fonts/ArialHB.ttc
-></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts
-/MinionPro-Bold.otf></Users/suzana/Library/Fonts/Formular regular mundo indigena
-.otf></Users/suzana/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Fo
-nts/MinionPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></usr
-/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></us
-r/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></u
-sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.p
-fb>
-Output written on LIVRO.pdf (28 pages, 137622 bytes).
+ers/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/Library/Fonts/MinionPro
+-ItSubh.otf></System/Library/Fonts/ArialHB.ttc></Users/suzana/Library/Fonts/Mini
+onPro-Regular.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></Users/suzana
+/Library/Fonts/Formular regular mundo indigena.otf></Users/suzana/Library/Fonts/
+MinionPro-ItCapt.otf></Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suz
+ana/Library/Fonts/MinionPro-BoldCapt.otf></usr/local/texlive/2020/texmf-dist/fon
+ts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fo
+nts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/f
+onts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (28 pages, 136256 bytes).
 
-PDF statistics: 181 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+PDF statistics: 188 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
