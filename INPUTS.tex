@@ -1,6 +1,6 @@
 \input{1-fronte}       % [Frontistício]
-\input{2-creditos}     % [Créditos]
-\input{3-rosto}	       % [folha de rosto]
+%\input{2-creditos}     % [Créditos]
+%\input{3-rosto}	       % [folha de rosto]
 % nothing			is level -3
 % \book				is level -2
 % \part				is level -1
@@ -13,13 +13,28 @@
 \setcounter{secnumdepth}{-2}
 \setcounter{tocdepth}{0}
 
+\blankpage
+\pagebreak
+\thispagestyle{empty}
+\addcontentsline{toc}{part}{A árvore do conhecimento}
+\mbox{}
+\begin{center}
+
+\vspace{3.7cm}
+
+{\brabo\HUGE\itshape A árvore do conhecimento}\\
+\medskip
+{\brabo\LARGE do bem e do mal}
+\end{center}
+\pagebreak
+
 % \renewcommand{\contentsname}{Índex} 	% Trocar nome do sumário para 'Índex'
 %\ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
 %\tableofcontents*
 \pagebreak
 \begingroup \footnotesize \parindent0pt \parskip 5pt \thispagestyle{empty} \vspace*{-0.5\textheight}\mbox{} \vfill
 \baselineskip=.92\baselineskip
-\input{PRETAS.tex}
+%\input{PRETAS.tex}
 \endgroup
 \pagebreak
 {\begingroup\mbox{}\pagestyle{empty}

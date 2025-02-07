@@ -1,11 +1,10 @@
+\contentsline {part}{A árvore do conhecimento}{3}%
 \thispagestyle {empty}
-\contentsline {part}{A árvore do conhecimento do bem e do mal}{7}%
-\contentsline {chapter}{\textsc {bava} {\arial א}\hskip 1em\relax XXXXXXXXX}{9}%
-\contentsline {chapter}{\textsc {bava} {\arial ב}\hskip 1em\relax XXXXXXXXX}{11}%
-\contentsline {chapter}{\textsc {bava} {\arial ג}\hskip 1em\relax XXXXXXXXX}{13}%
-\contentsline {chapter}{\textsc {bava} {\arial ד}\hskip 1em\relax XXXXXXXXX}{15}%
-\contentsline {chapter}{\textsc {bava} {\arial ה}\hskip 1em\relax XXXXXXXXX}{17}%
-\contentsline {chapter}{\textsc {bava} {\arial ו}\hskip 1em\relax XXXXXXXXX}{19}%
-\contentsline {chapter}{\textsc {bava} {\arial ז}\hskip 1em\relax XXXXXXXXX}{21}%
-\contentsline {chapter}{\textsc {bava} {\arial ח}\hskip 1em\relax XXXXXXXXX}{23}%
+\contentsline {chapter}{\textsc {bava} {\frank א}\hskip 1em\relax Serpente}{7}%
+\contentsline {chapter}{\textsc {bava} {\frank ב}\hskip 1em\relax Encanto}{9}%
+\contentsline {chapter}{\textsc {bava} {\frank ג}\hskip 1em\relax Sonho}{11}%
+\contentsline {chapter}{\textsc {bava} {\frank ד}\hskip 1em\relax Eva}{13}%
+\contentsline {chapter}{\textsc {bava} {\frank ה}\hskip 1em\relax Silêncio}{15}%
+\contentsline {chapter}{\textsc {bava} {\frank ו}\hskip 1em\relax Estrangeiro}{17}%
+\contentsline {chapter}{\textsc {bava} {\frank ז}\hskip 1em\relax Passado}{19}%
 \babel@toc {brazilian}{}
