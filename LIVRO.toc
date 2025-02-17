@@ -1,7 +1,12 @@
 \contentsline {part}{A árvore do conhecimento}{3}%
 \thispagestyle {empty}
 \contentsline {chapter}{\textsc {bava} {\frank א}\hskip 1em\relax Serpente}{7}%
+\contentsline {paragraph}{Uma descoberta pode se parecer com a completude}{7}%
+\contentsline {paragraph}{Conhecer não é apenas entender, mas sentir}{7}%
+\contentsline {paragraph}{Não confundir ``conhecer'' com ``relacionar''}{7}%
 \contentsline {chapter}{\textsc {bava} {\frank ב}\hskip 1em\relax Encanto}{9}%
+\contentsline {paragraph}{O processo criativo semelhante ao divino}{9}%
+\contentsline {paragraph}{Bezalel ``sabia como combinar as letras''}{9}%
 \contentsline {chapter}{\textsc {bava} {\frank ג}\hskip 1em\relax Sonho}{11}%
 \contentsline {chapter}{\textsc {bava} {\frank ד}\hskip 1em\relax Eva}{13}%
 \contentsline {chapter}{\textsc {bava} {\frank ה}\hskip 1em\relax Silêncio}{15}%

@@ -253,10 +253,11 @@ OUTPUT LIVRO.pdf
 INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
-INPUT ./TEXTO.tex
-INPUT ./TEXTO.tex
+INPUT ./TEXTO_VERSAO-2.tex
+INPUT ./TEXTO_VERSAO-2.tex
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-subh.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-itsubh.luc
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-disp.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-capt.luc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
