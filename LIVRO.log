@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  16 FEB 2025 21:40
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  26 FEB 2025 01:00
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1248,37 +1248,46 @@ RS)
 ) [7]
 [8
 
-] [9] [10] [11
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 55.
+
+Underfull \hbox (badness 1292) in paragraph at lines 65--66
+[] []\TU/MinionPro(0)/b/n/10.95 O pro-cesso cri-a-tivo se-me-lhante ao di-vino[
+] \TU/MinionPro(0)/m/n/10.95 Deus criou o
+ []
+
+[9] [10] [11
 
 ] [12]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 123.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 123.
+(Font)              <7> on input line 115.
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
 [13
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
@@ -1317,8 +1326,6 @@ Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
 (fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;+smc
 p;"
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 21.
 )) [22]
 
 ******************************************************
@@ -1344,21 +1351,17 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 
 \openout5 = LIVRO.toc
 (./LIVRO.aux (./INPUTS.aux)))
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 53 ({)
-### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 13627 strings out of 480992
+ 13629 strings out of 480992
  100000,1144653 words of node,token memory allocated
- 1293 words of node memory still in use:
-   5 hlist, 1 vlist, 2 rule, 8 glue, 3 kern, 1 glyph, 19 attribute, 198 glue_spe
-c, 11 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:1,2:612,3:56,4:37,5:897,6:16,7:2466,8:2,9:231,10:21,11:245
- 30582 multiletter control sequences out of 65536+600000
- 152 fonts using 24867011 bytes
- 53i,11n,102p,907b,590s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 1216 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 8 glue, 3 kern, 1 glyph, 18 attribute, 187 glue_spe
+c, 10 attribute_list, 3 shape, 3 write nodes
+   avail lists: 1:1,2:715,3:77,4:44,5:823,6:21,7:2245,8:2,9:255,10:20,11:230
+ 30584 multiletter control sequences out of 65536+600000
+ 153 fonts using 25137115 bytes
+ 53i,11n,102p,894b,538s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fonts/MinionP
 ro-It.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></Users/suzana/Library
@@ -1371,7 +1374,7 @@ usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb><
 /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
 sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.p
 fb>
-Output written on LIVRO.pdf (22 pages, 119720 bytes).
+Output written on LIVRO.pdf (22 pages, 121920 bytes).
 
 PDF statistics: 173 PDF objects out of 1000 (max. 8388607)
  108 compressed objects within 2 object streams
