@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  1 MAR 2025 22:38
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  2 MAR 2025 01:36
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1263,32 +1263,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [16] [17
 
-] [18]
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--170
-
- []
-
-)) [19
+] [18])) [19
 
 ]
 
@@ -1322,9 +1297,9 @@ Here is how much of LuaTeX's memory you used:
  1219 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 8 glue, 3 kern, 1 glyph, 17 attribute, 188 glue_spe
 c, 10 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:1,2:666,3:70,4:44,5:1314,6:17,7:2298,8:2,9:245,10:24,11:229
+   avail lists: 1:1,2:666,3:70,4:44,5:1314,6:18,7:2297,8:2,9:245,10:24,11:229
  30661 multiletter control sequences out of 65536+600000
- 174 fonts using 26976715 bytes
+ 174 fonts using 26976683 bytes
  53i,11n,102p,916b,476s stack positions out of 5000i,500n,10000p,200000b,100000s
 </Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fonts/Min
 ionPro-It.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></Users/suzana/Lib
@@ -1335,7 +1310,7 @@ ts/FS Brabo Pro Regular.otf></Users/suzana/Library/Fonts/FS Brabo Pro Italic.otf
 ></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.ot
 f></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirc
 lew.pfb>
-Output written on LIVRO.pdf (19 pages, 97302 bytes).
+Output written on LIVRO.pdf (19 pages, 97409 bytes).
 
 PDF statistics: 153 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream
