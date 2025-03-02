@@ -6,7 +6,7 @@
 \contentsline {paragraph}{Não confundir «conhecer» com «relacionar»}{7}%
 \contentsline {chapter}{\textsc {bava} {\frank ב}\hskip 1em\relax Encanto}{9}%
 \contentsline {paragraph}{O processo criativo semelhante ao divino}{9}%
-\contentsline {paragraph}{Bezalel «sabia como combinar as letras»}{10}%
+\contentsline {paragraph}{Betzalel «sabia como combinar as letras»}{9}%
 \contentsline {paragraph}{Criação é um processo eterno}{10}%
 \contentsline {chapter}{\textsc {bava} {\frank ג}\hskip 1em\relax Sonho}{11}%
 \contentsline {paragraph}{A realidade não é fixa}{11}%
@@ -18,6 +18,8 @@
 \contentsline {chapter}{\textsc {bava} {\frank ד}\hskip 1em\relax Eva}{13}%
 \contentsline {paragraph}{Correspondências simbólicas}{13}%
 \contentsline {paragraph}{A essência comum}{13}%
+\contentsline {paragraph}{O gatilho}{13}%
+\contentsline {paragraph}{A transgressão}{14}%
 \contentsline {chapter}{\textsc {bava} {\frank ה}\hskip 1em\relax Silêncio}{15}%
 \contentsline {paragraph}{Um tratado sobre o som}{15}%
 \contentsline {paragraph}{Som e respiração}{15}%
@@ -27,5 +29,6 @@
 \contentsline {paragraph}{O mundo é um livro sendo escrito}{17}%
 \contentsline {paragraph}{O que dizem as estrelas}{17}%
 \contentsline {paragraph}{Nomes de Deus são ações}{18}%
+\contentsline {paragraph}{Códigos interrompidos}{18}%
 \contentsline {chapter}{\textsc {bava} {\frank ז}\hskip 1em\relax Passado}{19}%
 \babel@toc {brazilian}{}

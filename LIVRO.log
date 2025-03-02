@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  26 FEB 2025 01:00
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  1 MAR 2025 22:38
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1235,6 +1235,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 ]
+Inserting `luaotfload.letterspace' at position 2 in `pre_linebreak_filter'.
+Inserting `luaotfload.letterspace' at position 2 in `hpack_filter'.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1245,96 +1247,58 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
-) [7]
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 43.
+ [7]
 [8
 
-]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 55.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 55.
+] [9] [10] [11
 
-Underfull \hbox (badness 1292) in paragraph at lines 65--66
-[] []\TU/MinionPro(0)/b/n/10.95 O pro-cesso cri-a-tivo se-me-lhante ao di-vino[
-] \TU/MinionPro(0)/m/n/10.95 Deus criou o
- []
+] [12] [13
 
-[9] [10] [11
-
-] [12]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 115.
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
-
- []
-
-[13
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
-
- []
-
-[14] [15
+] [14] [15
 
 ] [16] [17
 
-] [18]) (./Z-colofon.tex [19
+] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
-] [20] [21]
+ []
 
-Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
-(fontspec)             Pro' with options [].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"MinionPro:mode=node;script=latn;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"MinionPro:mode=node;script=latn;language=dflt;+smcp;"
 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"MinionPro/B:mode=node;script=latn;language=dflt;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"MinionPro/B:mode=node;script=latn;language=dflt;+smcp
-;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"MinionPro/I:mode=node;script=latn;language=dflt;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"MinionPro/I:mode=node;script=latn;language=dflt;+smcp
-;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;+smc
-p;"
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
-)) [22]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+)) [19
+
+]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
 Top and edge trims: 56.9055pt and 109.5431pt
 Page height and width: 597.50787pt by 378.42165pt
-Text height and width: 484pt by 275pt
+Text height and width: 473.4002pt by 275pt
 Spine and edge margins: 55.87474pt and 46.55518pt
-Upper and lower margins: 47.53113pt and 65.97675pt
+Upper and lower margins: 47.53113pt and 76.57654pt
 Headheight and headsep: 13.6pt and 14.22636pt
 Footskip: 27.46295pt
 Columnsep and columnseprule: 10pt and 0pt
@@ -1353,31 +1317,28 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 13629 strings out of 480992
- 100000,1144653 words of node,token memory allocated
- 1216 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 8 glue, 3 kern, 1 glyph, 18 attribute, 187 glue_spe
+ 13697 strings out of 480992
+ 100000,794899 words of node,token memory allocated
+ 1219 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 8 glue, 3 kern, 1 glyph, 17 attribute, 188 glue_spe
 c, 10 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:1,2:715,3:77,4:44,5:823,6:21,7:2245,8:2,9:255,10:20,11:230
- 30584 multiletter control sequences out of 65536+600000
- 153 fonts using 25137115 bytes
- 53i,11n,102p,894b,538s stack positions out of 5000i,500n,10000p,200000b,100000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
-ers/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fonts/MinionP
-ro-It.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></Users/suzana/Library
-/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/FrankRuhlLibre-Variable
-Font_wght.ttf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/
-Library/Fonts/Formular regular mundo indigena.otf></Users/suzana/Library/Fonts/F
-S Brabo Pro Regular.otf></Users/suzana/Library/Fonts/FS Brabo Pro Italic.otf></u
-sr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></
-usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb><
-/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.p
-fb>
-Output written on LIVRO.pdf (22 pages, 121920 bytes).
+   avail lists: 1:1,2:666,3:70,4:44,5:1314,6:17,7:2298,8:2,9:245,10:24,11:229
+ 30661 multiletter control sequences out of 65536+600000
+ 174 fonts using 26976715 bytes
+ 53i,11n,102p,916b,476s stack positions out of 5000i,500n,10000p,200000b,100000s
+</Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fonts/Min
+ionPro-It.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></Users/suzana/Lib
+rary/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/FrankRuhlLibre-Vari
+ableFont_wght.ttf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suz
+ana/Library/Fonts/Formular regular mundo indigena.otf></Users/suzana/Library/Fon
+ts/FS Brabo Pro Regular.otf></Users/suzana/Library/Fonts/FS Brabo Pro Italic.otf
+></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.ot
+f></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirc
+lew.pfb>
+Output written on LIVRO.pdf (19 pages, 97302 bytes).
 
-PDF statistics: 173 PDF objects out of 1000 (max. 8388607)
- 108 compressed objects within 2 object streams
+PDF statistics: 153 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
