@@ -1,6 +1,15 @@
 \contentsline {part}{A árvore do conhecimento}{3}%
 \thispagestyle {empty}
 \contentsline {chapter}{\textsc {bava} {\frank א} \hskip 1em\relax Passado}{7}%
+\contentsline {paragraph}{Os 3 livros}{7}%
+\contentsline {paragraph}{As 6 direções cardeais}{7}%
+\contentsline {paragraph}{As 10 \textit {sefirót}}{7}%
+\contentsline {paragraph}{As 22 as letras}{7}%
+\contentsline {paragraph}{As 3 letras mães}{8}%
+\contentsline {paragraph}{As 7 letras duplas}{8}%
+\contentsline {paragraph}{As 12 letras simples}{8}%
+\contentsline {paragraph}{Os 32 os caminhos de sabedoria}{8}%
+\contentsline {paragraph}{Os 231 portões sonoros}{8}%
 \contentsline {chapter}{\textsc {bava} {\frank ב} \hskip 1em\relax Serpente}{11}%
 \contentsline {paragraph}{A descoberta se parece com a completude}{11}%
 \contentsline {paragraph}{Conhecer não é apenas entender, mas sentir}{11}%

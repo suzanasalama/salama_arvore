@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  4 MAY 2025 18:56
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  4 MAY 2025 19:12
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -881,6 +881,32 @@ Package fontspec Info: Font family 'FormularLight(0)' created for font
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
+Package fontspec Info: Could not resolve font "FormularLightItalic/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FormularLightItalic/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FormularLightItalic/I" (it
+(fontspec)             probably doesn't exist).
+
+luaotfload | aux : font no 49 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'FormularLightItalic(0)' created for font
+(fontspec)             'Formular Light Italic' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FormularLightItalic:mode=node;script=latn;language=df
+lt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
 Package fontspec Info: Font family 'MinionPro(0)' created for font 'Minion
 (fontspec)             Pro' with options
 (fontspec)             [Ligatures=TeX,Ligatures=TeX,Numbers=OldStyle].
@@ -913,8 +939,8 @@ g;+onum;"
 (fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;+tli
 g;+onum;+smcp;"
 
-luaotfload | aux : font no 58 (nil) defines no feature for script latn
-luaotfload | aux : font no 58 (nil) defines no feature for script dflt
+luaotfload | aux : font no 62 (nil) defines no feature for script latn
+luaotfload | aux : font no 62 (nil) defines no feature for script dflt
 
 Package fontspec Info: Font family 'ArialHebrew(0)' created for font 'Arial
 (fontspec)             Hebrew' with options [].
@@ -935,8 +961,8 @@ Package fontspec Info: Font family 'ArialHebrew(0)' created for font 'Arial
 (fontspec)             <->"ArialHebrew/BI:mode=node;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-luaotfload | aux : font no 65 (nil) defines no feature for script latn
-luaotfload | aux : font no 65 (nil) defines no feature for script dflt
+luaotfload | aux : font no 69 (nil) defines no feature for script latn
+luaotfload | aux : font no 69 (nil) defines no feature for script dflt
 
 Package fontspec Info: Could not resolve font "ArialHebrew-Light/BI" (it
 (fontspec)             probably doesn't exist).
@@ -972,7 +998,7 @@ Package fontspec Info: Could not resolve font "FrankRuhlLibre/B" (it probably
 Package fontspec Info: Could not resolve font "FrankRuhlLibre/I" (it probably
 (fontspec)             doesn't exist).
 
-luaotfload | aux : font no 70 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 74 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'FrankRuhlLibre(0)' created for font
@@ -1047,88 +1073,88 @@ p;"
  (./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 76
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 82
 .
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 76.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 76.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 76.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 76.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 76.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 76.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 76.
-LaTeX Font Info:    Redeclaring math accent \check on input line 76.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 76.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 76.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 76.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 76.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 82.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 82.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 82.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 82.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 82.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 82.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 82.
+LaTeX Font Info:    Redeclaring math accent \check on input line 82.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 82.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 82.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 82.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 82.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 76.
+(Font)              `operators' in the math version `normal' on input line 82.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 76.
+(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 82.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 76.
+(Font)              `operators' in the math version `bold' on input line 82.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 76.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 82.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/m/n on input lin
-e 76.
+e 82.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 76.
+(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 82.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/b/n on input line 76.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/b/n on input line 82.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 76.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 82.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 76.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 82.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/b/n on input lin
-e 76.
+e 82.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/b/it on input line 76.
+(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/b/it on input line 82.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 76.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 82.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 76.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 82.
 
 (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1182,14 +1208,14 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-LaTeX Info: Redefining \microtypecontext on input line 76.
+LaTeX Info: Redefining \microtypecontext on input line 82.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 76.
+LaTeX Info: Redefining \showhyphens on input line 82.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -1239,26 +1265,31 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FormularLight' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `FormularLightItalic' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [7]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 15.
+(Font)              <10.95> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 15.
+(Font)              <8> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 15.
+(Font)              <6> on input line 24.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
-) [7]
-[8] [9] [10
+) [8]
+[9] [10
 
 ]
 Inserting `luaotfload.letterspace' at position 2 in `pre_linebreak_filter'.
 Inserting `luaotfload.letterspace' at position 2 in `hpack_filter'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 48.
+(Font)              <9> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
+(Font)              <5> on input line 46.
  [11] [12] [13
 
 ] [14] [15
@@ -1328,31 +1359,31 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 13650 strings out of 480992
+ 13667 strings out of 480992
  100000,1144653 words of node,token memory allocated
  1247 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 10 glue, 3 kern, 1 glyph, 22 attribute, 188 glue_sp
 ec, 12 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:1,2:608,3:59,4:49,5:1192,6:15,7:2618,8:2,9:241,10:24,11:266
- 30601 multiletter control sequences out of 65536+600000
- 157 fonts using 26887891 bytes
- 53i,11n,102p,1102b,513s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:1,2:608,3:57,4:48,5:1192,6:15,7:2606,8:2,9:232,10:24,11:266
+ 30614 multiletter control sequences out of 65536+600000
+ 163 fonts using 27673779 bytes
+ 55i,11n,102p,1108b,295s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fonts/MinionP
-ro-Bold.otf></Users/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/Library
-/Fonts/Formular-Light.otf></Users/suzana/Library/Fonts/MinionPro-ItSubh.otf></Us
-ers/suzana/Library/Fonts/FrankRuhlLibre-VariableFont_wght.ttf></Users/suzana/Lib
-rary/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts/Formular regular m
-undo indigena.otf></Users/suzana/Library/Fonts/FS Brabo Pro Regular.otf></Users/
-suzana/Library/Fonts/FS Brabo Pro Italic.otf></usr/local/texlive/2020/texmf-dist
-/fonts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dis
-t/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist
-/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (24 pages, 133449 bytes).
+ro-BoldIt.otf></Users/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/Libra
+ry/Fonts/MinionPro-Bold.otf></Users/suzana/Library/Fonts/Formular-LightItalic.ot
+f></Users/suzana/Library/Fonts/Formular-Light.otf></Users/suzana/Library/Fonts/M
+inionPro-ItSubh.otf></Users/suzana/Library/Fonts/FrankRuhlLibre-VariableFont_wgh
+t.ttf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Library/
+Fonts/Formular regular mundo indigena.otf></Users/suzana/Library/Fonts/FS Brabo 
+Pro Regular.otf></Users/suzana/Library/Fonts/FS Brabo Pro Italic.otf></usr/local
+/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/loca
+l/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/loc
+al/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (24 pages, 131425 bytes).
 
-PDF statistics: 186 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
+PDF statistics: 196 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
