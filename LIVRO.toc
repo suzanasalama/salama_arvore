@@ -1,34 +1,34 @@
 \contentsline {part}{A árvore do conhecimento}{3}%
 \thispagestyle {empty}
-\contentsline {chapter}{\textsc {bava} {\frank א}\hskip 1em\relax Serpente}{7}%
-\contentsline {paragraph}{Uma descoberta pode se parecer com a completude}{7}%
-\contentsline {paragraph}{Conhecer não é apenas entender, mas sentir}{7}%
-\contentsline {paragraph}{Não confundir «conhecer» com «relacionar»}{7}%
-\contentsline {chapter}{\textsc {bava} {\frank ב}\hskip 1em\relax Encanto}{9}%
-\contentsline {paragraph}{O processo criativo semelhante ao divino}{9}%
-\contentsline {paragraph}{Betzalel «sabia como combinar as letras»}{9}%
-\contentsline {paragraph}{Criação é um processo eterno}{10}%
-\contentsline {chapter}{\textsc {bava} {\frank ג}\hskip 1em\relax Sonho}{11}%
-\contentsline {paragraph}{A realidade não é fixa}{11}%
-\contentsline {paragraph}{Partes perdidas de si}{11}%
-\contentsline {paragraph}{Criação e Torá}{11}%
-\contentsline {paragraph}{Interpretar é o oposto de decorar}{12}%
-\contentsline {paragraph}{Criação e vazio}{12}%
-\contentsline {paragraph}{O vazio e o caos não são negativos}{12}%
-\contentsline {chapter}{\textsc {bava} {\frank ד}\hskip 1em\relax Eva}{13}%
-\contentsline {paragraph}{Correspondências simbólicas}{13}%
-\contentsline {paragraph}{A essência comum}{13}%
-\contentsline {paragraph}{O gatilho}{13}%
-\contentsline {paragraph}{A transgressão}{14}%
-\contentsline {chapter}{\textsc {bava} {\frank ה}\hskip 1em\relax Silêncio}{15}%
-\contentsline {paragraph}{Um tratado sobre o som}{15}%
-\contentsline {paragraph}{Som e respiração}{15}%
-\contentsline {paragraph}{O molde da criação}{16}%
-\contentsline {paragraph}{Som potencial}{16}%
-\contentsline {chapter}{\textsc {bava} {\frank ו}\hskip 1em\relax Estrangeiro}{17}%
-\contentsline {paragraph}{O mundo é um livro sendo escrito}{17}%
-\contentsline {paragraph}{O que dizem as estrelas}{17}%
-\contentsline {paragraph}{Nomes de Deus são ações}{18}%
-\contentsline {paragraph}{Códigos interrompidos}{18}%
-\contentsline {chapter}{\textsc {bava} {\frank ז}\hskip 1em\relax Passado}{19}%
+\contentsline {chapter}{\textsc {bava} {\frank א} \hskip 1em\relax Passado}{7}%
+\contentsline {chapter}{\textsc {bava} {\frank ב} \hskip 1em\relax Serpente}{11}%
+\contentsline {paragraph}{A descoberta se parece com a completude}{11}%
+\contentsline {paragraph}{Conhecer não é apenas entender, mas sentir}{11}%
+\contentsline {paragraph}{«Conhecer» e «relacionar»}{12}%
+\contentsline {chapter}{\textsc {bava} {\frank ג} \hskip 1em\relax Encanto}{13}%
+\contentsline {paragraph}{Linguagem criativa}{13}%
+\contentsline {paragraph}{Betzalel «sabia como combinar as letras»\FN@sf@gobble@opt {Passagem do Talmud, do tratado Berachot. Trata-se de um elogio à sabedoria de Betzalel, o artífice escolhido para construir o Mishkan.}}{13}%
+\contentsline {paragraph}{Criação é um processo eterno}{14}%
+\contentsline {chapter}{\textsc {bava} {\frank ד} \hskip 1em\relax Sonho}{15}%
+\contentsline {paragraph}{A realidade não é fixa}{15}%
+\contentsline {paragraph}{Partes perdidas de si}{15}%
+\contentsline {paragraph}{Criação e Torá}{16}%
+\contentsline {paragraph}{Interpretar é o oposto de decorar}{16}%
+\contentsline {paragraph}{Criação e vazio}{16}%
+\contentsline {paragraph}{O vazio e o caos não são negativos}{16}%
+\contentsline {chapter}{\textsc {bava} {\frank ה} \hskip 1em\relax Eva}{17}%
+\contentsline {paragraph}{Correspondências simbólicas}{17}%
+\contentsline {paragraph}{A essência comum}{17}%
+\contentsline {paragraph}{O gatilho}{18}%
+\contentsline {paragraph}{A transgressão}{18}%
+\contentsline {chapter}{\textsc {bava} {\frank ו} \hskip 1em\relax Silêncio}{19}%
+\contentsline {paragraph}{Um tratado sobre o som}{19}%
+\contentsline {paragraph}{Som e respiração}{20}%
+\contentsline {paragraph}{O molde da criação}{20}%
+\contentsline {paragraph}{Som potencial}{20}%
+\contentsline {chapter}{\textsc {bava} {\frank ז} \hskip 1em\relax Estrangeiro}{21}%
+\contentsline {paragraph}{O mundo é um livro sendo escrito}{21}%
+\contentsline {paragraph}{O que dizem as estrelas}{21}%
+\contentsline {paragraph}{Nomes de Deus são ações}{22}%
+\contentsline {paragraph}{Códigos interrompidos}{22}%
 \babel@toc {brazilian}{}
