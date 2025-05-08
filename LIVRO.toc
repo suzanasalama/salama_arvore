@@ -10,6 +10,7 @@
 \contentsline {paragraph}{As 12 letras simples}{8}%
 \contentsline {paragraph}{Os 32 os caminhos de sabedoria}{8}%
 \contentsline {paragraph}{Os 231 portões sonoros}{8}%
+\contentsline {paragraph}{Epílogo}{9}%
 \contentsline {chapter}{\textsc {bava} {\frank ב} \hskip 1em\relax Serpente}{11}%
 \contentsline {paragraph}{A descoberta se parece com a completude}{11}%
 \contentsline {paragraph}{Conhecer não é apenas entender, mas sentir}{11}%
