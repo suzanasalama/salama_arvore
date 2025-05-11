@@ -1,44 +1,43 @@
 \contentsline {part}{A árvore do conhecimento}{3}%
 \thispagestyle {empty}
-\contentsline {chapter}{\textsc {bava} {\frank א} \hskip 1em\relax Passado}{7}%
-\contentsline {paragraph}{Os 3 livros}{7}%
-\contentsline {paragraph}{As 6 direções cardeais}{7}%
-\contentsline {paragraph}{As 10 \textit {sefirót}}{7}%
-\contentsline {paragraph}{As 22 as letras}{7}%
-\contentsline {paragraph}{As 3 letras mães}{8}%
-\contentsline {paragraph}{As 7 letras duplas}{8}%
-\contentsline {paragraph}{As 12 letras simples}{8}%
-\contentsline {paragraph}{Os 32 os caminhos de sabedoria}{8}%
-\contentsline {paragraph}{Os 231 portões sonoros}{8}%
-\contentsline {paragraph}{Epílogo}{9}%
-\contentsline {chapter}{\textsc {bava} {\frank ב} \hskip 1em\relax Serpente}{11}%
-\contentsline {paragraph}{A descoberta se parece com a completude}{11}%
-\contentsline {paragraph}{Conhecer não é apenas entender, mas sentir}{11}%
-\contentsline {paragraph}{«Conhecer» e «relacionar»}{12}%
-\contentsline {chapter}{\textsc {bava} {\frank ג} \hskip 1em\relax Encanto}{13}%
-\contentsline {paragraph}{Linguagem criativa}{13}%
-\contentsline {paragraph}{Betzalel «sabia como combinar as letras»\FN@sf@gobble@opt {Passagem do Talmud, do tratado Berachot. Trata-se de um elogio à sabedoria de Betzalel, o artífice escolhido para construir o Mishkan.}}{13}%
-\contentsline {paragraph}{Criação é um processo eterno}{14}%
-\contentsline {chapter}{\textsc {bava} {\frank ד} \hskip 1em\relax Sonho}{15}%
-\contentsline {paragraph}{A realidade não é fixa}{15}%
-\contentsline {paragraph}{Partes perdidas de si}{15}%
-\contentsline {paragraph}{Criação e Torá}{16}%
-\contentsline {paragraph}{Interpretar é o oposto de decorar}{16}%
-\contentsline {paragraph}{Criação e vazio}{16}%
-\contentsline {paragraph}{O vazio e o caos não são negativos}{16}%
-\contentsline {chapter}{\textsc {bava} {\frank ה} \hskip 1em\relax Eva}{17}%
-\contentsline {paragraph}{Correspondências simbólicas}{17}%
-\contentsline {paragraph}{A essência comum}{17}%
-\contentsline {paragraph}{O gatilho}{18}%
-\contentsline {paragraph}{A transgressão}{18}%
-\contentsline {chapter}{\textsc {bava} {\frank ו} \hskip 1em\relax Silêncio}{19}%
-\contentsline {paragraph}{Um tratado sobre o som}{19}%
-\contentsline {paragraph}{Som e respiração}{20}%
-\contentsline {paragraph}{O molde da criação}{20}%
-\contentsline {paragraph}{Som potencial}{20}%
-\contentsline {chapter}{\textsc {bava} {\frank ז} \hskip 1em\relax Estrangeiro}{21}%
-\contentsline {paragraph}{O mundo é um livro sendo escrito}{21}%
-\contentsline {paragraph}{O que dizem as estrelas}{21}%
-\contentsline {paragraph}{Nomes de Deus são ações}{22}%
-\contentsline {paragraph}{Códigos interrompidos}{22}%
+\contentsline {chapter}{\textsc {bava} {\frank א} \hskip 1em\relax Passado}{9}%
+\contentsline {paragraph}{Os 3 livros}{9}%
+\contentsline {paragraph}{As 6 direções cardeais}{9}%
+\contentsline {paragraph}{As 10 «sefirót»}{9}%
+\contentsline {paragraph}{As 22 letras}{9}%
+\contentsline {paragraph}{As 3 letras mães}{10}%
+\contentsline {paragraph}{As 7 letras duplas}{10}%
+\contentsline {paragraph}{As 12 letras simples}{10}%
+\contentsline {paragraph}{Os 32 caminhos de sabedoria}{10}%
+\contentsline {paragraph}{Os 231 portões}{10}%
+\contentsline {chapter}{\textsc {bava} {\frank ב} \hskip 1em\relax Serpente}{13}%
+\contentsline {paragraph}{A descoberta se parece com a completude}{13}%
+\contentsline {paragraph}{Viver e significar}{14}%
+\contentsline {paragraph}{Conhecer e relacionar}{14}%
+\contentsline {chapter}{\textsc {bava} {\frank ג} \hskip 1em\relax Encanto}{15}%
+\contentsline {paragraph}{Linguagem criativa}{15}%
+\contentsline {paragraph}{Betzalel «sabia como combinar as letras»\FN@sf@gobble@opt {Passagem do Talmud, do tratado Berachot. Trata-se de um elogio à sabedoria de Betzalel, o artífice escolhido para construir o Mishkan.}}{15}%
+\contentsline {paragraph}{Criação é um processo eterno}{16}%
+\contentsline {chapter}{\textsc {bava} {\frank ד} \hskip 1em\relax Sonho}{17}%
+\contentsline {paragraph}{A realidade não é fixa}{17}%
+\contentsline {paragraph}{Partes perdidas de si}{17}%
+\contentsline {paragraph}{Criação e Torá}{18}%
+\contentsline {paragraph}{Interpretar é o oposto de decorar}{18}%
+\contentsline {paragraph}{Criação e vazio}{18}%
+\contentsline {paragraph}{O vazio e o caos não são negativos}{18}%
+\contentsline {chapter}{\textsc {bava} {\frank ה} \hskip 1em\relax Eva}{19}%
+\contentsline {paragraph}{Correspondências simbólicas}{19}%
+\contentsline {paragraph}{A essência comum}{19}%
+\contentsline {paragraph}{O gatilho}{20}%
+\contentsline {paragraph}{A transgressão}{20}%
+\contentsline {chapter}{\textsc {bava} {\frank ו} \hskip 1em\relax Silêncio}{21}%
+\contentsline {paragraph}{Um tratado sobre o som}{21}%
+\contentsline {paragraph}{Som e respiração}{22}%
+\contentsline {paragraph}{O molde da criação}{22}%
+\contentsline {paragraph}{Som potencial}{22}%
+\contentsline {chapter}{\textsc {bava} {\frank ז} \hskip 1em\relax Estrangeiro}{23}%
+\contentsline {paragraph}{O mundo é um livro sendo escrito}{23}%
+\contentsline {paragraph}{O que dizem as estrelas}{23}%
+\contentsline {paragraph}{Nomes de Deus são ações}{24}%
+\contentsline {paragraph}{Códigos interrompidos}{24}%
 \babel@toc {brazilian}{}
